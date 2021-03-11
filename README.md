@@ -20,17 +20,16 @@ Here are some ideas to get you started:
 Information:
 Hi, i'm <b>Ofek</b>. I'm Developer from Israel 💙. <br>My main programming languages are:</br>
 <br>-JavaScript</br>
--NodeJS
--Html
--Css
--C#
-</br>
-I'm also a gamer 🎮
+<br>-NodeJS</br>
+<br>-Html</br>
+<br>-Css</br>
+<br>-C#</br>
+<br>I'm also a gamer 🎮</br>
 - My Steam account: [Click here](https://steamcommunity.com/profiles/76561199011340615/)
 
 
-- 📨 My Dscord: `OF3K#2418`
-- 🌐 My Website [here](soon.com) 
+<br>- 📨 My Dscord: `OF3K#2418`</br>
+<br>- 🌐 My Website [here](soon.com) </br>
 
 Languages and Tools:
 
