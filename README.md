@@ -43,6 +43,5 @@ Languages and Tools:
 
 
 
-![Top Langs](<a href="https://wakatime.com"><img src="https://wakatime.com/share/@09d092c1-3a6c-434c-9a2c-634cd6d3be71/669954e2-3b0d-4c47-9577-1fa619b0cde4.png" /></a>) 
+<figure><embed src="https://wakatime.com/share/@09d092c1-3a6c-434c-9a2c-634cd6d3be71/8a5c47e5-d165-43c2-a14d-4417d0a1909d.svg"></embed></figure>
 [![Example-Bot](https://github.com/OF3K/NodeJS-Simple-DiscordBot)
-
