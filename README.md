@@ -40,8 +40,8 @@ Languages and Tools:
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;"></a>
 </code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<br>[![Example-Bot](https://github.com/OF3K/NodeJS-Simple-DiscordBot)</br>
 
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@09d092c1-3a6c-434c-9a2c-634cd6d3be71/7131de24-4d9c-43b7-946b-47df12f9eab0.png" /></a>
-<br>[![Example-Bot](https://github.com/OF3K/NodeJS-Simple-DiscordBot)</br>
+
