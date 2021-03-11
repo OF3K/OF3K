@@ -18,15 +18,16 @@ Here are some ideas to get you started:
 
 
 Information:
-Hi, i'm <b>Ofek</b>. I'm Developer from Israel 💙. My main programming languages are:
+Hi, i'm <b>Ofek</b>. I'm Developer from Israel 💙. <br>My main programming languages are:
 -JavaScript
 -NodeJS
 -Html
 -Css
 -C#
-
+</br>
 I'm also a gamer 🎮
 - My Steam account: [Click here](https://steamcommunity.com/profiles/76561199011340615/)
+
 
 - 📨 My Dscord: `OF3K#2418`
 - 🌐 My Website [here](soon.com) 
