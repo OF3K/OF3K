@@ -42,7 +42,7 @@ Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-![OF3K's github stats](https://github-readme-stats.vercel.app/api?username=OF3K&show_icons=true&theme=tokyonight)
+
 ![Top Langs](<a href="https://wakatime.com"><img src="https://wakatime.com/share/@09d092c1-3a6c-434c-9a2c-634cd6d3be71/669954e2-3b0d-4c47-9577-1fa619b0cde4.png" /></a>) 
-[![Example-Bot]()
+[![Example-Bot](https://github.com/OF3K/NodeJS-Simple-DiscordBot)
 
