@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 
 Information:
-Hi, i'm <b>Ofek</b>. I'm Developer from Israel 💙. <br>My main programming languages are:
--JavaScript
+Hi, i'm <b>Ofek</b>. I'm Developer from Israel 💙. <br>My main programming languages are:</br>
+<br>-JavaScript</br>
 -NodeJS
 -Html
 -Css
