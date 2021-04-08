@@ -26,7 +26,7 @@ Hi, i'm <b>Ofek</b>. I'm Developer from Israel 💙. <br>My main programming lan
 <br>-C#</br>
 <br>I'm also a gamer 🎮</br>
 - My Steam account: [Click here](https://steamcommunity.com/profiles/76561199011340615/)
-
+- My Twitch account: [Click here](https://www.twitch.tv/of3k_)
 
 <br>- 📨 My Dscord: `OF3K#2418`</br>
 <br>- 🌐 My Website [here](soon.com) </br>
