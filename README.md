@@ -44,4 +44,4 @@ Languages and Tools:
 <br>[Click here to NodeJs starter Bot](https://github.com/OF3K/NodeJS-Simple-DiscordBot)</br>
 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@09d092c1-3a6c-434c-9a2c-634cd6d3be71/536a6178-7c9f-423b-985f-9839ec654be8.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@09d092c1-3a6c-434c-9a2c-634cd6d3be71/4ffd57c6-4692-4a01-912b-c87877c5e666.png" /></a>
