@@ -42,6 +42,3 @@ Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <br>[Click here to NodeJs starter Bot](https://github.com/OF3K/NodeJS-Simple-DiscordBot)</br>
-
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@09d092c1-3a6c-434c-9a2c-634cd6d3be71/4ffd57c6-4692-4a01-912b-c87877c5e666.png" /></a>
